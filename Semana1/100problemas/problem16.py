@@ -8,3 +8,5 @@ def contar_vocales_consonantes(texto):
     print(f"Vocales: {num_vocales}, Consonantes: {num_consonantes}")
 texto = input("Ingrese una cadena: ")
 contar_vocales_consonantes(texto)
+
+
